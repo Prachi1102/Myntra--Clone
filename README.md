@@ -6,3 +6,4 @@ Product Browsing: Browse a wide range of fashion and lifestyle products convenie
 Shopping Cart: Add products to your cart, update quantities, and proceed to checkout seamlessly.
 Checkout Process: Effortlessly complete purchases with our streamlined checkout process, integrated with popular payment gateways.
 Responsive Design: Enjoy a seamless shopping experience across devices with our responsive design optimized for desktop and mobile.
+
