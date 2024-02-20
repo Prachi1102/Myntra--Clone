@@ -10,5 +10,5 @@ Responsive Design: Enjoy a seamless shopping experience across devices with our 
 
 # Images:
 https://github.com/Prachi1102/Myntra--Clone/assets/120273657/bfd3dfc4-49f1-47ab-babf-008238232ff9
-https://github.com/Prachi1102/Myntra--Clone/assets/120273657/3f9c0ae8-97f7-4a90-a82b-191f4db4998d
+https://github.com/Prachi1102/Myntra--Clone/assets/120273657/6fd21a96-9a31-4161-a3ce-3ede9f04a472
 https://github.com/Prachi1102/Myntra--Clone/assets/120273657/82323987-4b35-4685-ac8d-f856db64851a
